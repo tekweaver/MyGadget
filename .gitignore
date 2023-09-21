@@ -1,0 +1,5 @@
+.vscode/**
+source/.sandbox/**
+source/config.txt
+source/modules
+source/gadget
